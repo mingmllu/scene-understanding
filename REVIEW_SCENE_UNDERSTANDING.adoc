@@ -1,1 +1,16 @@
-Review of Scene Understanding Methods
+== Review of Scene Understanding Methods
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867636/[Understanding scene understanding]
+
+Scene understanding is ultimately an interpretation, it is whatever a person tells you it is—the specific story they have attached to a given collection of pixels. 
+
+If scene understanding is an interpretation, how can it be evaluated—what is the ground truth for scene understanding?
+
+It is possible to know every object and action in a scene and still not know what the scene is about—knowledge of these elements is, quite literally, not the whole story. Minimally, true understanding requires a more extensive filtering and ordering of this list to capture only those objects, actions, and events that are important to a viewer's interpretation.
+
+Gaze behavior is the thread used to weave the objects, actions, and events of a scene into the fabric of a story. 
+
+http://www-sop.inria.fr/members/Francois.Bremond/topicsText/sceneUnderstanding.html[What is scene understanding ?]
+
+Scene understanding is the process, often real time, of perceiving, analysing and elaborating an interpretation of a 3D dynamic scene observed through a network of sensors. This process consists mainly in matching signal information coming from sensors observing the scene with models which humans are using to understand the scene. 
+
