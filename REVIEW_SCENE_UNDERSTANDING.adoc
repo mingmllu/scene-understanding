@@ -14,3 +14,28 @@ http://www-sop.inria.fr/members/Francois.Bremond/topicsText/sceneUnderstanding.h
 
 Scene understanding is the process, often real time, of perceiving, analysing and elaborating an interpretation of a 3D dynamic scene observed through a network of sensors. This process consists mainly in matching signal information coming from sensors observing the scene with models which humans are using to understand the scene. 
 
+Scene understanding is influenced by cognitive vision and it requires at least the melding of three areas: computer vision, cognition and software engineering. 
+
+Scene understanding can achieve four levels of generic computer vision functionality of detection, localisation, recognition and understanding.
+
+The key characteristic of a scene understanding system is its capacity to exhibit robust performance even in circumstances that were not foreseen when it was designed.
+
+information is abstracted through four levels; signal (e.g. pixel, sound), perceptual features, physical objects, and events
+
+physical objects cannot disappear in the middle of the scene
+ 
+segmentation, classification, tracking, scenario recognition
+ 
+event (actions, situations, activities, behaviors, scenarios): relationships between physical objects
+
+=== Book https://learning.oreilly.com/library/view/image-understanding/9783110524239/[Image Understanding]
+
+Image understanding focuses on the further study of the property of each object and the relationship among them, based on image analysis results and combined with artificial intelligence and cognitive theory, to understand the meaning of the image content and to interpret the corresponding objective scenes, so as to guide and plan action.
+
+Image understanding must be done by computer, based on image processing and image analysis. 
+
+The analysis and semantic interpretation of the scene can be divided into three layers:
+
+* Local layer: The main emphasis on this layer is the analysis, recognition or labeling of image region for local scene or single object.
+* Global layer: This layer considers the whole scene, focuses on the relationship between objects having a similar appearance and functionality, and so on.
+* Abstraction layer: This layer corresponds to the concept meaning of the scene and provides the abstract description of scene.
