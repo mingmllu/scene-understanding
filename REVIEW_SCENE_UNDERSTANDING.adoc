@@ -4,7 +4,9 @@ http://sceneparsing.csail.mit.edu/[Scene parsing] is to segment and parse an ima
 
 Scene labeling: Scene Parsing is the segmentation approach to scene labeling
 
-Scene classification:
+http://vision.stanford.edu/projects/sceneclassification/index.html[Scene classification]: 
+
+http://ceur-ws.org/Vol-1964/ML2.pdf[Image understanding - a brief review of scene classification and recognition]
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867636/[Understanding scene understanding]
 
