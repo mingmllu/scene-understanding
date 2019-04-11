@@ -1,5 +1,11 @@
 == Review of Scene Understanding Methods
 
+http://sceneparsing.csail.mit.edu/[Scene parsing] is to segment and parse an image into different image regions associated with semantic categories, such as sky, road, person, and bed.
+
+Scene labeling: Scene Parsing is the segmentation approach to scene labeling
+
+Scene classification:
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867636/[Understanding scene understanding]
 
 Scene understanding is ultimately an interpretation, it is whatever a person tells you it is—the specific story they have attached to a given collection of pixels. 
